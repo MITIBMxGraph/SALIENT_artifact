@@ -333,3 +333,7 @@ Example output for a 16-GPU execution using 8 machines with 2 GPUs each using AW
 |                  |         |       Num trials:2      |                |               |               |
 +------------------+---------+-------------------------+----------------+---------------+---------------+
 ```
+
+
+# Acknowledgements
+This research was sponsored by MIT-IBM Watson AI Lab and in part by the United States Air Force Research Laboratory and the United States Air Force Artificial Intelligence Accelerator and was accomplished under Cooperative Agreement Number FA8750-19-2-1000. The views and conclusions contained in this document are those of the authors and should not be interpreted as representing the official policies, either expressed or implied, of the United States Air Force or the U.S. Government. The U.S. Government is authorized to reproduce and distribute reprints for Government purposes notwithstanding any copyright notation herein.
